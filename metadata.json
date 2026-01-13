@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Pizza Partner English Academy",
+  "description": "A collaborative pizza-making game for young English learners where a Customer orders from a menu and a Chef builds the pizza to match.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
